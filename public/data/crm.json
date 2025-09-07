@@ -1,0 +1,802 @@
+[
+  {
+    "deal_id": "DL-5000",
+    "region": "London",
+    "industry": "General Practice",
+    "stage": "Proposal",
+    "deal_size": 4305,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5001",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 8370,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5002",
+    "region": "Manchester",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 17205,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5003",
+    "region": "Birmingham",
+    "industry": "Physiotherapy",
+    "stage": "Proposal",
+    "deal_size": 9282,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5004",
+    "region": "Leeds",
+    "industry": "General Practice",
+    "stage": "Qualified",
+    "deal_size": 22720,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5005",
+    "region": "Manchester",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 14526,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5006",
+    "region": "Barcelona",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 17995,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5007",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 8032,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5008",
+    "region": "London",
+    "industry": "Physiotherapy",
+    "stage": "Qualified",
+    "deal_size": 17400,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5009",
+    "region": "London",
+    "industry": "General Practice",
+    "stage": "Demo",
+    "deal_size": 25354,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5010",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 16028,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5011",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 14961,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5012",
+    "region": "Madrid",
+    "industry": "General Practice",
+    "stage": "Demo",
+    "deal_size": 13710,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5013",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "New",
+    "deal_size": 17825,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5014",
+    "region": "Leeds",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 11005,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5015",
+    "region": "Manchester",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 10863,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5016",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "New",
+    "deal_size": 31190,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5017",
+    "region": "Barcelona",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 34497,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5018",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Demo",
+    "deal_size": 19084,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5019",
+    "region": "Leeds",
+    "industry": "Dental",
+    "stage": "New",
+    "deal_size": 12841,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5020",
+    "region": "Barcelona",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 8257,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5021",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Proposal",
+    "deal_size": 17175,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5022",
+    "region": "Barcelona",
+    "industry": "Dermatology",
+    "stage": "Closed Lost",
+    "deal_size": 13191,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5023",
+    "region": "Leeds",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 8021,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5024",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Closed Lost",
+    "deal_size": 17177,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5025",
+    "region": "Leeds",
+    "industry": "General Practice",
+    "stage": "New",
+    "deal_size": 11224,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5026",
+    "region": "Leeds",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 10144,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5027",
+    "region": "London",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 37753,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5028",
+    "region": "Birmingham",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 5557,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5029",
+    "region": "Birmingham",
+    "industry": "Physiotherapy",
+    "stage": "Demo",
+    "deal_size": 7726,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5030",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Closed Won",
+    "deal_size": 12188,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5031",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 5797,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5032",
+    "region": "Manchester",
+    "industry": "Physiotherapy",
+    "stage": "New",
+    "deal_size": 8398,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5033",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 17745,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5034",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 8563,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5035",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 11336,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5036",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 8332,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5037",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Proposal",
+    "deal_size": 10478,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5038",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 9325,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5039",
+    "region": "Leeds",
+    "industry": "General Practice",
+    "stage": "Closed Lost",
+    "deal_size": 6114,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5040",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Proposal",
+    "deal_size": 16980,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5041",
+    "region": "Madrid",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 14757,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5042",
+    "region": "London",
+    "industry": "Physiotherapy",
+    "stage": "Demo",
+    "deal_size": 7583,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5043",
+    "region": "Barcelona",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 19527,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5044",
+    "region": "Barcelona",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 10929,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5045",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 12366,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5046",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 18001,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5047",
+    "region": "Madrid",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 9728,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5048",
+    "region": "Barcelona",
+    "industry": "Dental",
+    "stage": "Closed Won",
+    "deal_size": 14630,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5049",
+    "region": "Madrid",
+    "industry": "General Practice",
+    "stage": "Qualified",
+    "deal_size": 9141,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5050",
+    "region": "Manchester",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 9169,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5051",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "New",
+    "deal_size": 9005,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5052",
+    "region": "Madrid",
+    "industry": "Dental",
+    "stage": "Closed Won",
+    "deal_size": 9135,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5053",
+    "region": "Madrid",
+    "industry": "Physiotherapy",
+    "stage": "Qualified",
+    "deal_size": 14602,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5054",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 46286,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5055",
+    "region": "London",
+    "industry": "Physiotherapy",
+    "stage": "Proposal",
+    "deal_size": 15250,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5056",
+    "region": "London",
+    "industry": "General Practice",
+    "stage": "Demo",
+    "deal_size": 10331,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5057",
+    "region": "Leeds",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 12038,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5058",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "Closed Lost",
+    "deal_size": 6516,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5059",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 6919,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5060",
+    "region": "London",
+    "industry": "General Practice",
+    "stage": "Proposal",
+    "deal_size": 5889,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5061",
+    "region": "Manchester",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 5468,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5062",
+    "region": "Birmingham",
+    "industry": "Physiotherapy",
+    "stage": "Demo",
+    "deal_size": 11918,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5063",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Closed Lost",
+    "deal_size": 18213,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5064",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 12582,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5065",
+    "region": "Madrid",
+    "industry": "General Practice",
+    "stage": "Qualified",
+    "deal_size": 19345,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5066",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 10026,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5067",
+    "region": "Madrid",
+    "industry": "General Practice",
+    "stage": "New",
+    "deal_size": 23077,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5068",
+    "region": "Manchester",
+    "industry": "General Practice",
+    "stage": "Qualified",
+    "deal_size": 15808,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5069",
+    "region": "Birmingham",
+    "industry": "Physiotherapy",
+    "stage": "Demo",
+    "deal_size": 15108,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5070",
+    "region": "Barcelona",
+    "industry": "Dental",
+    "stage": "Closed Lost",
+    "deal_size": 6839,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5071",
+    "region": "Manchester",
+    "industry": "Physiotherapy",
+    "stage": "Closed Lost",
+    "deal_size": 14470,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5072",
+    "region": "Barcelona",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 7932,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5073",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Closed Lost",
+    "deal_size": 7434,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5074",
+    "region": "London",
+    "industry": "Physiotherapy",
+    "stage": "Qualified",
+    "deal_size": 12070,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5075",
+    "region": "Madrid",
+    "industry": "Physiotherapy",
+    "stage": "Closed Lost",
+    "deal_size": 14915,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5076",
+    "region": "Manchester",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 21298,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5077",
+    "region": "Manchester",
+    "industry": "Dermatology",
+    "stage": "Closed Won",
+    "deal_size": 4373,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5078",
+    "region": "Birmingham",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 10386,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5079",
+    "region": "Manchester",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 12742,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5080",
+    "region": "Birmingham",
+    "industry": "General Practice",
+    "stage": "Demo",
+    "deal_size": 29291,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5081",
+    "region": "Birmingham",
+    "industry": "General Practice",
+    "stage": "Closed Won",
+    "deal_size": 12531,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5082",
+    "region": "Birmingham",
+    "industry": "General Practice",
+    "stage": "Closed Lost",
+    "deal_size": 23616,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5083",
+    "region": "Manchester",
+    "industry": "Physiotherapy",
+    "stage": "Proposal",
+    "deal_size": 16465,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5084",
+    "region": "Madrid",
+    "industry": "General Practice",
+    "stage": "Qualified",
+    "deal_size": 4443,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5085",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "New",
+    "deal_size": 4233,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5086",
+    "region": "London",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 6185,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5087",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 15156,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5088",
+    "region": "Birmingham",
+    "industry": "Physiotherapy",
+    "stage": "Proposal",
+    "deal_size": 6666,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5089",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Closed Lost",
+    "deal_size": 14456,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5090",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Demo",
+    "deal_size": 19379,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5091",
+    "region": "Leeds",
+    "industry": "Physiotherapy",
+    "stage": "Qualified",
+    "deal_size": 8810,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5092",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 10976,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5093",
+    "region": "Madrid",
+    "industry": "Physiotherapy",
+    "stage": "Closed Won",
+    "deal_size": 22044,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5094",
+    "region": "Leeds",
+    "industry": "Dermatology",
+    "stage": "Proposal",
+    "deal_size": 25918,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5095",
+    "region": "London",
+    "industry": "Dental",
+    "stage": "Proposal",
+    "deal_size": 6611,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5096",
+    "region": "Leeds",
+    "industry": "Physiotherapy",
+    "stage": "Demo",
+    "deal_size": 21478,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5097",
+    "region": "Manchester",
+    "industry": "Dental",
+    "stage": "Qualified",
+    "deal_size": 12968,
+    "touched_last_7d": 0
+  },
+  {
+    "deal_id": "DL-5098",
+    "region": "Manchester",
+    "industry": "Dermatology",
+    "stage": "Qualified",
+    "deal_size": 18494,
+    "touched_last_7d": 1
+  },
+  {
+    "deal_id": "DL-5099",
+    "region": "Madrid",
+    "industry": "Dermatology",
+    "stage": "Demo",
+    "deal_size": 16597,
+    "touched_last_7d": 1
+  }
+]

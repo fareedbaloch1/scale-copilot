@@ -1,0 +1,83 @@
+{
+  "generated_at": "2025-09-07T15:58:05.068862Z",
+  "top_support_cluster_terms": [
+    "payments",
+    "failed",
+    "refund",
+    "payout",
+    "late",
+    "charge",
+    "double"
+  ],
+  "tickets_by_component": {
+    "Payments": 132,
+    "Analytics": 121,
+    "Mobile": 91,
+    "Integrations": 60,
+    "Scheduling": 53,
+    "API": 43
+  },
+  "issues_by_component": {
+    "Scheduling": 44,
+    "API": 38,
+    "Payments": 37,
+    "Analytics": 35,
+    "Integrations": 29,
+    "Mobile": 17
+  },
+  "region_expected_value": [
+    {
+      "region": "London",
+      "expected_value": 592656.4528515443
+    },
+    {
+      "region": "Manchester",
+      "expected_value": 386044.9558864751
+    },
+    {
+      "region": "Madrid",
+      "expected_value": 327522.90999382513
+    },
+    {
+      "region": "Birmingham",
+      "expected_value": 284903.9979737541
+    },
+    {
+      "region": "Barcelona",
+      "expected_value": 231872.0609798306
+    },
+    {
+      "region": "Leeds",
+      "expected_value": 213803.33413469713
+    }
+  ],
+  "stale_opportunities": 92,
+  "high_attrition_count": 6,
+  "recommendations": [
+    {
+      "category": "Engine Room",
+      "insight": "Top recurring ticket theme (cluster 1): payments, failed, refund, payout, late, charge, double",
+      "action": "Create a Tiger Team for the top theme with a 2-sprint bug bash; link Zendesk macros + public help doc; add canary telemetry."
+    },
+    {
+      "category": "Engine Room",
+      "insight": "Support load is heaviest on 'Payments' component.",
+      "action": "Increase automated tests and error budgets for this component; route a higher % of sprint capacity to defect reduction for 1 month."
+    },
+    {
+      "category": "Accelerators",
+      "insight": "Highest expected pipeline value region is 'London'.",
+      "action": "Allocate 30% more BDR time and targeted campaigns in this region; localize case studies; set weekly pipeline review."
+    },
+    {
+      "category": "Accelerators",
+      "insight": "92 mid/late-stage opportunities not touched in the last 7 days.",
+      "action": "Auto-generate nudges and personalized email drafts for owners; enforce SLA for touches at each stage."
+    },
+    {
+      "category": "Cockpit",
+      "insight": "6 employees show high attrition risk; many are in CS/Support.",
+      "action": "Implement CS career ladder, adjust compa-ratios below 0.9, and reduce manager spans >9 via hiring or redistribution."
+    }
+  ]
+}
